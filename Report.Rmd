@@ -1,0 +1,2 @@
+I learned there is a main repository and branches. I still do not know how to merge them or invite collaborators.
+There are many features that I feel lost in.
